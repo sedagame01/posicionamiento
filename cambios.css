@@ -1,0 +1,48 @@
+.header{
+    height: 100%;
+    background-color: coral;
+    padding: 20px;
+    margin: 0;
+    position: relative;
+    text-align: center;
+}
+.navegador{
+    position: sticky;
+    background-color: bisque;
+    z-index: 10px;
+    width: 100%;
+    top: 15px;
+    padding: 2px;
+    
+}
+.opciones{
+    position: absolute;
+    background-color: aqua;
+
+   
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+
+h1.info2{
+
+    color:black;
+    background-color: brown;
+    position: relative;
+    margin: 0px;
+    padding: 15px;
+}
+h1.fotos{
+    color: black;
+    background-color: darksalmon;
+    position: relative;
+    margin: 0;
+    padding: 15px;
+}
+p{
+    font-size: 32px;
+}
+
